@@ -1,4 +1,4 @@
-# FixMeshTransform
+# FixFBXHeight
 シーン中のメッシュ(FBX)の底面をY = 0に揃えた状態でメッシュを保存しなおすためのエディタ拡張です。<br>
 This is an Unity editor tool for adjusting height of FBX mesh to satisfy minimum Y coordinate in the mesh gets 0.<br><br>
 ![](https://github.com/ButchKoh/FixFBXHeight/blob/main/Screenshot.png)
